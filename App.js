@@ -1,9 +1,12 @@
+import React from 'react';
+import ReactDOM from "react-dom/client";
+
 {
   /* <div id='parent'>
     <div id='child'>
         <h1></h1>
         <h2></h2>
-    </div>
+    </div> 
     <div id='child'>
         <h1></h1>
         <h2></h2>
